@@ -1,4 +1,4 @@
 # Hall of Fame
 Please add your name to this list
 
-Jose
+1. Jose
